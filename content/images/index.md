@@ -1,4 +1,4 @@
 ---
-title: The Gallery
+title: The Art of Reset
 headless: true
 ---
